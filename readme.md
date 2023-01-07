@@ -1,5 +1,5 @@
 <h2> Hi, I'm Bushido <img src="https://cdn-icons-png.flaticon.com/512/886/886431.png" width="35"></h2>
-<h3>* Backend developer <br>* Community Enthusiast <br> * Student </h3>
+<h3>* developer <br>* Community Enthusiast <br> * Student <br> Penetration Tester <br> </h3> 
 
 <h4> Currently working on </h4>
 <p> >>> ChatGPT implementing in whatsapp and instagram </p>
